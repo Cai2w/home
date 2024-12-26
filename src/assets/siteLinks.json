@@ -15,6 +15,11 @@
     "link": "https://nav.cai2.wang/"
   },
   {
+    "icon": "FortAwesome",
+    "name": "网页旧址",
+    "link": "https://old.cai2.wang/"
+  },
+  {
     "icon": "LaptopCode",
     "name": "站点监测",
     "link": "https://status.imsyy.top/"
