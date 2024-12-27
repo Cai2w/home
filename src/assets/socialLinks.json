@@ -12,6 +12,12 @@
     "url": "https://space.bilibili.com/393341992"
   },
   {
+    "name": "掘金",
+    "icon": "/images/icon/juejin.png",
+    "tip": "去 掘金 看看",
+    "url": "https://juejin.cn/user/765678299915271"
+  },
+  {
     "name": "Email",
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
